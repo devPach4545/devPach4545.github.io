@@ -12,3 +12,21 @@
 
 ##  Are you having a bad Day? Here is a link to a cute cat pic. Maybe it makes your day
 [cat pic](catpic.md)
+
+## My favorite quote
+> "Be yourself; everyone else is already taken." - Oscar Wilde
+
+## Languages and frameworks I am learning and have learned before
+1. `Python`
+2. `Java`
+3. `C++`
+4. `HTML, CSS, Javascript`
+
+## Things I need to achieve in the next few years. 
+- [ ] Get an internship
+- [ ] Attempt GRE
+- [ ] Get a job
+- [ ] Get in a good master program such as Bs/Ms for ucsd
+
+
+
